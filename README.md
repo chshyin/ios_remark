@@ -10,4 +10,6 @@
 ###lantern 上网工具
 #####[lantern](https://www.getlantern.org)
 
+###卡塔练习网站
+#####[codewars](http://www.codewars.com/dashboard)
 
