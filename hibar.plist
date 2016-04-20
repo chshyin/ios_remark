@@ -13,22 +13,6 @@
 					<key>url</key>
 					<string>http://124.193.122.18:10000/hi8_oss/upload/app/hibar_new.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://go.com/Icon@2x.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://go.com/Icon.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -39,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>hibar</string>
+				<string>owl</string>
 			</dict>
 		</dict>
 	</array>
